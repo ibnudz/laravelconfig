@@ -1,3 +1,6 @@
+<center>
+      [![repo](https://img.shields.io/github/repo-size/ibnudz/laravelconfig)]
+</center>
 # laravelconfig
 Laravel Retrieving information in .env (such as SMTP, AWS, TWILIO,  SENDGRID, and other.)
 
