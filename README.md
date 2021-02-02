@@ -5,8 +5,8 @@ Laravel Retrieving information in .env (such as SMTP, AWS, TWILIO,  SENDGRID, an
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Windows][(https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)]
-[![Linux/Unix][(https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=yellow)]
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)]
+[![Linux/Unix](https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=yellow)]
 
 &nbsp;
 
