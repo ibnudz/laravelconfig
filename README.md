@@ -12,9 +12,12 @@ Laravel Retrieving information in .env (such as SMTP, AWS, TWILIO,  SENDGRID, an
 
 &nbsp;
 
-# how to run?
+# How to Run?
       git clone https://github.com/ibnudz/laravelconfig
       cd laravelconfig
       pip install -r requirements.txt
       # use python3
       python3 larav.py
+      
+# Results
+      mailhost|port|user|pass
