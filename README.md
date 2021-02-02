@@ -9,4 +9,4 @@ Windows, Linux/Unix, Termux
       cd laravelconfig
       pip install -r requirements.txt
       # use python3
-      python larav.py
+      python3 larav.py
