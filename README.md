@@ -1,13 +1,12 @@
 # laravelconfig
 [![repo-size](https://img.shields.io/github/repo-size/ibnudz/laravelconfig)]()
 [![code-size](https://img.shields.io/github/languages/code-size/ibnudz/laravelconfig)]()
-<br>
+
+&nbsp;
+
 Laravel Retrieving information in .env (such as SMTP, AWS, TWILIO,  SENDGRID, and other.)
 
 # Support On 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)]()
 [![Linux/Unix](https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=yellow)]()
 
